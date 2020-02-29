@@ -17,14 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ViewModels\" />
-    <Folder Include="Views\Delivery\" />
-    <Folder Include="Views\Seller\" />
-    <Folder Include="Views\Supplier\" />
-    <Folder Include="Views\Product\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Update="Views\Customer\CustomerDetails.xaml.cs">
       <DependentUpon>CustomerDetails.xaml</DependentUpon>
     </Compile>
